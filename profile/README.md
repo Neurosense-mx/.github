@@ -35,7 +35,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
         </a>
       </p>
       <p align="center">
-        ITL<br>Co-founder NeurosSense<br>
+        ITL<br>Co-founder NeuroSense<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/cessdel">
@@ -55,7 +55,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
         </a>
       </p>
       <p align="center">
-        ITL<br>Co-founder NeurosSense<br>
+        ITL<br>Co-founder NeuroSense<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/ReplacedSpace17">
@@ -71,11 +71,11 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/">
-          <img src="https://avatars.githubusercontent.com/u/50347332?v=4"  height="120" alt="JPY">
+          <img src="https://avatars.githubusercontent.com/u/36656242?v=4"  height="120" alt="JPY">
         </a>
       </p>
       <p align="center">
-        ITL<br>Co-founder NeurosSense<br>
+        ITL<br>Co-founder NeuroSense<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/ReplacedSpace17">
@@ -91,11 +91,11 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
       <p align="center">
         <br>
         <a href="https://www.instagram.com//">
-          <img src="https://avatars.githubusercontent.com/u/50347332?v=4"  height="120" alt="JPY">
+          <img src="https://avatars.githubusercontent.com/u/43831809?v=4"  height="120" alt="JPY">
         </a>
       </p>
       <p align="center">
-        ITL<br>Co-founder NeurosSense<br>
+        ITL<br>Co-founder NeuroSense<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/ReplacedSpace17">
@@ -115,7 +115,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
         </a>
       </p>
       <p align="center">
-        ITL<br>Co-founder NeurosSense<br>
+        ITL<br>Co-founder NeuroSense<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/ReplacedSpace17">
