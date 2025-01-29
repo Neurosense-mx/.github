@@ -8,7 +8,7 @@ Síguenos en nuestras redes sociales **@Singularity Club**
 - [Facebook: Singularity Club](https://www.facebook.com/SingularityITL/)
 - [Twitter: @hub_singularity](https://twitter.com/hub_singularity)
 - [GitHub: Singularity-Club-MX](https://github.com/Singularity-MX)
-
+- [Web: Singularity-Club-MX](https://github.com/Singularity-MX)
 ## ¡Únete!
 Para ser parte de Singularity Club te pedimos que registres tú información de contacto en el siguiente enlace, queremos conocerte y que formes parte ello:<br>
 [Link de registro](https://docs.google.com/forms/d/e/1FAIpQLSdrew1DlFwTqVp17hwkukH1UevBuHt9KiPYyY7ra_gAVfWBuQ/viewform)
